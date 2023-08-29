@@ -1,0 +1,15 @@
+C:\Users\Daniel.Caitano\Documents\aluradotnet\AprendendoCSharp\CriandoVariaveis\bin\Debug\net6.0\CriandoVariaveis.exe
+C:\Users\Daniel.Caitano\Documents\aluradotnet\AprendendoCSharp\CriandoVariaveis\bin\Debug\net6.0\CriandoVariaveis.deps.json
+C:\Users\Daniel.Caitano\Documents\aluradotnet\AprendendoCSharp\CriandoVariaveis\bin\Debug\net6.0\CriandoVariaveis.runtimeconfig.json
+C:\Users\Daniel.Caitano\Documents\aluradotnet\AprendendoCSharp\CriandoVariaveis\bin\Debug\net6.0\CriandoVariaveis.dll
+C:\Users\Daniel.Caitano\Documents\aluradotnet\AprendendoCSharp\CriandoVariaveis\bin\Debug\net6.0\CriandoVariaveis.pdb
+C:\Users\Daniel.Caitano\Documents\aluradotnet\AprendendoCSharp\CriandoVariaveis\obj\Debug\net6.0\CriandoVariaveis.csproj.AssemblyReference.cache
+C:\Users\Daniel.Caitano\Documents\aluradotnet\AprendendoCSharp\CriandoVariaveis\obj\Debug\net6.0\CriandoVariaveis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel.Caitano\Documents\aluradotnet\AprendendoCSharp\CriandoVariaveis\obj\Debug\net6.0\CriandoVariaveis.AssemblyInfoInputs.cache
+C:\Users\Daniel.Caitano\Documents\aluradotnet\AprendendoCSharp\CriandoVariaveis\obj\Debug\net6.0\CriandoVariaveis.AssemblyInfo.cs
+C:\Users\Daniel.Caitano\Documents\aluradotnet\AprendendoCSharp\CriandoVariaveis\obj\Debug\net6.0\CriandoVariaveis.csproj.CoreCompileInputs.cache
+C:\Users\Daniel.Caitano\Documents\aluradotnet\AprendendoCSharp\CriandoVariaveis\obj\Debug\net6.0\CriandoVariaveis.dll
+C:\Users\Daniel.Caitano\Documents\aluradotnet\AprendendoCSharp\CriandoVariaveis\obj\Debug\net6.0\refint\CriandoVariaveis.dll
+C:\Users\Daniel.Caitano\Documents\aluradotnet\AprendendoCSharp\CriandoVariaveis\obj\Debug\net6.0\CriandoVariaveis.pdb
+C:\Users\Daniel.Caitano\Documents\aluradotnet\AprendendoCSharp\CriandoVariaveis\obj\Debug\net6.0\CriandoVariaveis.genruntimeconfig.cache
+C:\Users\Daniel.Caitano\Documents\aluradotnet\AprendendoCSharp\CriandoVariaveis\obj\Debug\net6.0\ref\CriandoVariaveis.dll

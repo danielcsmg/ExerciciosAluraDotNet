@@ -1,0 +1,12 @@
+C:\Users\Daniel.Caitano\Documents\aluradotnet\projetos-ms-build\console-app\bin\Debug\net5.0\Tarefas.deps.json
+C:\Users\Daniel.Caitano\Documents\aluradotnet\projetos-ms-build\console-app\bin\Debug\net5.0\Tarefas.dll
+C:\Users\Daniel.Caitano\Documents\aluradotnet\projetos-ms-build\console-app\bin\Debug\net5.0\Tarefas.pdb
+C:\Users\Daniel.Caitano\Documents\aluradotnet\projetos-ms-build\console-app\obj\Debug\net5.0\Tarefas.csproj.AssemblyReference.cache
+C:\Users\Daniel.Caitano\Documents\aluradotnet\projetos-ms-build\console-app\obj\Debug\net5.0\Tarefas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel.Caitano\Documents\aluradotnet\projetos-ms-build\console-app\obj\Debug\net5.0\Tarefas.AssemblyInfoInputs.cache
+C:\Users\Daniel.Caitano\Documents\aluradotnet\projetos-ms-build\console-app\obj\Debug\net5.0\Tarefas.AssemblyInfo.cs
+C:\Users\Daniel.Caitano\Documents\aluradotnet\projetos-ms-build\console-app\obj\Debug\net5.0\Tarefas.csproj.CoreCompileInputs.cache
+C:\Users\Daniel.Caitano\Documents\aluradotnet\projetos-ms-build\console-app\obj\Debug\net5.0\Tarefas.dll
+C:\Users\Daniel.Caitano\Documents\aluradotnet\projetos-ms-build\console-app\obj\Debug\net5.0\refint\Tarefas.dll
+C:\Users\Daniel.Caitano\Documents\aluradotnet\projetos-ms-build\console-app\obj\Debug\net5.0\Tarefas.pdb
+C:\Users\Daniel.Caitano\Documents\aluradotnet\projetos-ms-build\console-app\obj\Debug\net5.0\ref\Tarefas.dll

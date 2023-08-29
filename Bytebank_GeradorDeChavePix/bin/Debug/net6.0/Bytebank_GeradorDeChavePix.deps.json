@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Bytebank_GeradorDeChavePix/1.0.0": {
+        "runtime": {
+          "Bytebank_GeradorDeChavePix.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Bytebank_GeradorDeChavePix/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

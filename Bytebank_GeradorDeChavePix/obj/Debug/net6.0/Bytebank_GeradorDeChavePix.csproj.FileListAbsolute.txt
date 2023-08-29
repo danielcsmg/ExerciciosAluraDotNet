@@ -1,0 +1,14 @@
+C:\Users\Daniel.Caitano\Documents\aluradotnet\Bytebank_GeradorDeChavePix\bin\Debug\net6.0\Bytebank_GeradorDeChavePix.deps.json
+C:\Users\Daniel.Caitano\Documents\aluradotnet\Bytebank_GeradorDeChavePix\bin\Debug\net6.0\Bytebank_GeradorDeChavePix.dll
+C:\Users\Daniel.Caitano\Documents\aluradotnet\Bytebank_GeradorDeChavePix\bin\Debug\net6.0\Bytebank_GeradorDeChavePix.pdb
+C:\Users\Daniel.Caitano\Documents\aluradotnet\Bytebank_GeradorDeChavePix\obj\Debug\net6.0\Bytebank_GeradorDeChavePix.csproj.AssemblyReference.cache
+C:\Users\Daniel.Caitano\Documents\aluradotnet\Bytebank_GeradorDeChavePix\obj\Debug\net6.0\Bytebank_GeradorDeChavePix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel.Caitano\Documents\aluradotnet\Bytebank_GeradorDeChavePix\obj\Debug\net6.0\Bytebank_GeradorDeChavePix.AssemblyInfoInputs.cache
+C:\Users\Daniel.Caitano\Documents\aluradotnet\Bytebank_GeradorDeChavePix\obj\Debug\net6.0\Bytebank_GeradorDeChavePix.AssemblyInfo.cs
+C:\Users\Daniel.Caitano\Documents\aluradotnet\Bytebank_GeradorDeChavePix\obj\Debug\net6.0\Bytebank_GeradorDeChavePix.csproj.CoreCompileInputs.cache
+C:\Users\Daniel.Caitano\Documents\aluradotnet\Bytebank_GeradorDeChavePix\obj\Debug\net6.0\Bytebank_GeradorDeChavePix.dll
+C:\Users\Daniel.Caitano\Documents\aluradotnet\Bytebank_GeradorDeChavePix\obj\Debug\net6.0\refint\Bytebank_GeradorDeChavePix.dll
+C:\Users\Daniel.Caitano\Documents\aluradotnet\Bytebank_GeradorDeChavePix\obj\Debug\net6.0\Bytebank_GeradorDeChavePix.pdb
+C:\Users\Daniel.Caitano\Documents\aluradotnet\Bytebank_GeradorDeChavePix\obj\Debug\net6.0\ref\Bytebank_GeradorDeChavePix.dll
+C:\Users\Daniel.Caitano\Documents\aluradotnet\Bytebank_GeradorDeChavePix\bin\Debug\net6.0\Bytebank_GeradorDeChavePix.xml
+C:\Users\Daniel.Caitano\Documents\aluradotnet\Bytebank_GeradorDeChavePix\obj\Debug\net6.0\Bytebank_GeradorDeChavePix.xml

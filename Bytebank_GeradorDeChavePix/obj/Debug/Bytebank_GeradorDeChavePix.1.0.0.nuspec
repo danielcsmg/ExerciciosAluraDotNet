@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Bytebank_GeradorDeChavePix</id>
+    <version>1.0.0</version>
+    <title>GeradorPIX</title>
+    <authors>Bytebank_GeradorDeChavePix</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\Daniel.Caitano\Documents\aluradotnet\Bytebank_GeradorDeChavePix\bin\Debug\net6.0\Bytebank_GeradorDeChavePix.dll" target="lib\net6.0\Bytebank_GeradorDeChavePix.dll" />
+    <file src="C:\Users\Daniel.Caitano\Documents\aluradotnet\Bytebank_GeradorDeChavePix\bin\Debug\net6.0\Bytebank_GeradorDeChavePix.xml" target="lib\net6.0\Bytebank_GeradorDeChavePix.xml" />
+  </files>
+</package>

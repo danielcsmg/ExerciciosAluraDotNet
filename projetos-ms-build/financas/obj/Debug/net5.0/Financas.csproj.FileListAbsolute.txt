@@ -1,0 +1,12 @@
+C:\Users\Daniel.Caitano\Documents\aluradotnet\projetos-ms-build\financas\bin\Debug\net5.0\Financas.deps.json
+C:\Users\Daniel.Caitano\Documents\aluradotnet\projetos-ms-build\financas\bin\Debug\net5.0\Financas.dll
+C:\Users\Daniel.Caitano\Documents\aluradotnet\projetos-ms-build\financas\bin\Debug\net5.0\Financas.pdb
+C:\Users\Daniel.Caitano\Documents\aluradotnet\projetos-ms-build\financas\obj\Debug\net5.0\Financas.csproj.AssemblyReference.cache
+C:\Users\Daniel.Caitano\Documents\aluradotnet\projetos-ms-build\financas\obj\Debug\net5.0\Financas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel.Caitano\Documents\aluradotnet\projetos-ms-build\financas\obj\Debug\net5.0\Financas.AssemblyInfoInputs.cache
+C:\Users\Daniel.Caitano\Documents\aluradotnet\projetos-ms-build\financas\obj\Debug\net5.0\Financas.AssemblyInfo.cs
+C:\Users\Daniel.Caitano\Documents\aluradotnet\projetos-ms-build\financas\obj\Debug\net5.0\Financas.csproj.CoreCompileInputs.cache
+C:\Users\Daniel.Caitano\Documents\aluradotnet\projetos-ms-build\financas\obj\Debug\net5.0\Financas.dll
+C:\Users\Daniel.Caitano\Documents\aluradotnet\projetos-ms-build\financas\obj\Debug\net5.0\refint\Financas.dll
+C:\Users\Daniel.Caitano\Documents\aluradotnet\projetos-ms-build\financas\obj\Debug\net5.0\Financas.pdb
+C:\Users\Daniel.Caitano\Documents\aluradotnet\projetos-ms-build\financas\obj\Debug\net5.0\ref\Financas.dll

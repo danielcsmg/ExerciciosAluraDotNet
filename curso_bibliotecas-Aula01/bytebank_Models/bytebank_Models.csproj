@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <EditorConfigFiles Remove="C:\Users\Daniel.Caitano\Documents\aluradotnet\curso_bibliotecas-Aula01\bytebank_Models\.editorconfig" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="C:\Users\Daniel.Caitano\Documents\aluradotnet\curso_bibliotecas-Aula01\bytebank_Models\.editorconfig" />
+  </ItemGroup>
+
+</Project>

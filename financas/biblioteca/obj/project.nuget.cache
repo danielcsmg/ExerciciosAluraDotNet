@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "3gXXLUJvS4D/IFol3rETz62aCUmL0XW/BMoIMG9E1p7XysR7qJIFaYZL/5knDFFBn+Q8QehgM/S1aq+E+R9tew==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Daniel.Caitano\\Documents\\aluradotnet\\financas\\biblioteca\\Financas.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Daniel.Caitano\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Daniel.Caitano\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
